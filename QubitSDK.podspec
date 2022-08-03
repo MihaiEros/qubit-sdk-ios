@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-    s.name         = "QubitSDK-RC"
+    s.name         = "QubitSDK"
     
     s.version      = "2.0.0"
     
